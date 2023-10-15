@@ -1,5 +1,5 @@
 <h1 align="center">Hello!, My name is Jeeraboon Sukparungsee</h1>
-<h3 align="center">A Student at Chitralada School, Thailand. Im interested in Machine Learning, Game Development and Full Stack Development.</h3>
+<h3 align="center">A Student at Chitralada School, Thailand. I am interested in Machine Learning, Game Development and Full Stack Development.</h3>
 
 <p align="left"> <a href="https://twitter.com/jeeraboonsuk" target="blank"><img src="https://img.shields.io/twitter/follow/jeeraboonsuk?logo=twitter&style=for-the-badge" alt="jeeraboonsuk" /></a> </p>
 
